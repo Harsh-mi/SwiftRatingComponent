@@ -54,9 +54,7 @@ ratingStarView.didTouchRating = { rating in }
 
 One can customize RatingStarView from storyboard by changing its `Fill Mode` property.
 
-https://github-production-user-asset-6210df.s3.amazonaws.com/104136042/308931496-5d60f82d-91f0-47f2-9fda-111956fbe111.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240229%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240229T130417Z&X-Amz-Expires=300&X-Amz-Signature=6caf10155b1367be7f93d4543c6b1e763abfdf712fd0b636eb70375430e13a68&X-Amz-SignedHeaders=host&actor_id=104136042&key_id=0&repo_id=765108557
-
-Here are the different Fill Mode values for showing full, half and precise star ratings:
+- Here are the different `Fill Mode` values for showing full, half and precise star ratings:
 
 * Set 0 to show full star rating
 * Set 1 to show half star rating
