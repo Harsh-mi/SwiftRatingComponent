@@ -9,7 +9,7 @@ This is a UI control for iOS written in Swift. It shows a star rating and takes 
 
 Setup with Swift Package Manager
 In Xcode 11+ select File > Packages > Add Package Dependency....
-Enter this project's URL: https://github.com/evgenyneu/Cosmos.git
+Enter this project's URL: https://github.com/Harsh-mi/SwiftRatingComponent
 
 #### Setup with Swift Package Manager
 
