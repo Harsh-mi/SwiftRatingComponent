@@ -50,7 +50,17 @@ ratingStarView.didFinishTouchingRating = { rating in }
 ratingStarView.didTouchRating = { rating in }
 ```
 
-## Customization
+## Customization!
+
+One can customize RatingStarView from storyboard by changing its `Fill Mode` property.
+
+[Screenshot 2024-02-29 at 6 31 39 PM](https://github.com/Harsh-mi/SwiftRatingComponent/assets/104136042/5d60f82d-91f0-47f2-9fda-111956fbe111)
+
+Here are the different Fill Mode values for showing full, half and precise star ratings:
+
+* Set 0 to show full star rating
+* Set 1 to show half star rating
+* Set 2 to show precise star rating
 
 One can customize RatingStarView from code by changing its `settings`.
 
